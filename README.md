@@ -7,7 +7,8 @@
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.com/u/Omkar-282/)
+![LeetCode Stats](https://leetcode.com/u/Omkar-282/?theme=dark&font=baloo&ext=activity)
+
 
 
 ---
