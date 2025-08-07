@@ -57,14 +57,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patilomkar282&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-
 ---
 
 ### 📊 LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Omkar-282?theme=light&font=Baloo&ext=contest)](https://leetcode.com/u/Omkar-282/)
+
+
+[![Omkar's LeetCode Stats](https://leetcard.jacoblin.cool/Omkar-282?theme=dark&font=Kalam&ext=heatmap&ext=contest)](https://leetcode.com/u/Omkar-282/)
+
 
 
 ---
