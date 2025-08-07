@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=25&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Always+Learning+Something+New;Passionate+about+Web+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 
+### 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcode.com/u/Omkar-282/)
+
+
 ---
 
 ## 🙋‍♂️ About Me
