@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=25&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Always+Learning+Something+New;Passionate+about+Web+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 
-### 📊 LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Omkar-282?theme=light&font=Baloo&ext=contest)](https://leetcode.com/u/Omkar-282/)
-
-
-
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -63,6 +57,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patilomkar282&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+
+---
+
+### 📊 LeetCode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Omkar-282?theme=light&font=Baloo&ext=contest)](https://leetcode.com/u/Omkar-282/)
+
 
 ---
 
