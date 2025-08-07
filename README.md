@@ -6,8 +6,8 @@
 </p>
 
 ### 📊 LeetCode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Omkar-282?theme=light&font=Baloo&ext=contest)](https://leetcode.com/u/Omkar-282/)
 
-![LeetCode Stats](https://leetcode.com/u/Omkar-282/?theme=dark&font=baloo&ext=activity)
 
 
 
